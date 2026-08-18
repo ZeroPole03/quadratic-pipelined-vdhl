@@ -61,6 +61,7 @@ cuadratic_pipelining/
 ├── docs/
 │
 └── results/
+```
 
 ## Features
 
