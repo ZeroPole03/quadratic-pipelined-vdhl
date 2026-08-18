@@ -1,0 +1,14 @@
+# GHDL generated files
+*.o
+*.cf
+work-obj*.cf
+
+# Simulation files
+*.vcd
+salida_y.txt
+
+# GHDL executables
+tb_cuadratic_pipelining
+
+# macOS
+.DS_Store
